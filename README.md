@@ -1,1 +1,1 @@
-Computer science student interested in compilers, type theory, and reverse engineering.
+Computer science student interested in compilers, strict functional languages, and reverse engineering.
